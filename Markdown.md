@@ -77,5 +77,3 @@ fdf4fc3344e67ab068f836878b6c4951e3b15f3d First commit
 ## Цитаты
 
 ## Заключение
-
-Hello from Github  
